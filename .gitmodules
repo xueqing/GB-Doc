@@ -1,0 +1,3 @@
+[submodule "GM-Standards"]
+	path = GM-Standards
+	url = git@github.com:xueqing/GM-Standards.git
